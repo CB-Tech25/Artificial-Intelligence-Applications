@@ -1,0 +1,55 @@
+# A12 – Case Study: Leveraging AGI in Manufacturing
+
+## Overview
+This assignment explores how Artificial General Intelligence (AGI) could be applied in the manufacturing industry to improve efficiency, decision-making, and system-wide operations. Unlike traditional AI, AGI has the ability to adapt and make decisions across multiple areas rather than focusing on a single task.
+
+## Objective
+The goal of this case study is to analyze the current challenges in manufacturing and evaluate how AGI could be used to address these issues through more advanced, connected, and adaptive systems.
+
+## Contents
+- A12_CourtneyBernard_ITAI2372.docx
+
+## Industry Focus
+Manufacturing was selected due to its complexity and reliance on multiple interconnected systems, including production, maintenance, energy use, and supply chain operations.
+
+## Key Topics
+
+### Current Challenges in Manufacturing
+- Equipment failure and downtime
+- High energy consumption
+- Supply chain disruptions
+- Dependence on manual decision-making
+
+### AGI Applications
+- Advanced predictive maintenance with automated responses
+- Real-time energy optimization
+- Adaptive supply chain management
+- System-wide decision-making across operations
+
+### Benefits
+- Increased efficiency and reduced downtime
+- Improved resource and energy management
+- Faster and more accurate decision-making
+- Enhanced production reliability
+
+### Risks and Challenges
+- Job displacement
+- Data security and privacy concerns
+- Over-reliance on AI systems
+- Ethical considerations and accountability
+
+## Reflection
+This assignment helped me understand the difference between traditional AI and AGI, and how future systems could move toward more intelligent, adaptive decision-making across entire industries.
+
+## Resources
+- Lee, J., Davari, H., Singh, J., & Pandhare, V. (2018). Industrial AI systems.
+- Makridakis, S. (2017). AI revolution impact.
+- Rai, A., et al. (2019). Human-AI hybrid systems.
+- Zhang, Y., et al. (2017). Data-driven manufacturing.
+
+## Conclusion
+AGI has the potential to transform manufacturing by connecting multiple systems and improving decision-making in real time. However, responsible implementation and human oversight are essential to manage risks and ensure ethical use.
+
+## Author
+Courtney Bernard  
+ITAI 2372 – Artificial Intelligence Applications
