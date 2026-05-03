@@ -1,0 +1,49 @@
+# In-Class Assignment – AI-Based Stock News Sentiment Tracker
+
+## Overview
+This assignment focuses on building an AI-Based Stock News Sentiment Tracker that analyzes financial news and determines whether the sentiment for a company is positive, negative, or neutral. The system uses Yahoo Finance as the data source and focuses on major technology companies.
+
+## Objective
+The goal of this assignment is to demonstrate how artificial intelligence can automate the process of analyzing financial news and help support faster, data-driven decision-making.
+
+## Problem Statement
+Investors rely heavily on financial news, but there is too much information to process manually. Missing important updates can lead to poor decisions. This project addresses the need for an automated system that summarizes sentiment efficiently.
+
+## System Design
+The system works in three main steps:
+
+1. **Collect News**
+   - Pulls headlines and summaries from Yahoo Finance
+   - Focuses on five major companies
+
+2. **Analyze Sentiment**
+   - Classifies articles as positive, negative, or neutral
+
+3. **Generate Insights**
+   - Summarizes daily sentiment
+   - Highlights key reasons behind trends
+
+## Companies Analyzed
+- Microsoft (MSFT)
+- Google (GOOGL)
+- Apple (AAPL)
+- Tesla (TSLA)
+- Meta (META)
+
+## Key Insights
+- Microsoft and Apple showed positive sentiment due to strong performance
+- Tesla showed negative sentiment due to production issues
+- Google and Meta remained neutral with steady updates
+
+## Benefits
+- Saves time for investors
+- Simplifies large amounts of information
+- Supports better decision-making
+- Enables continuous monitoring
+
+## Conclusion
+This project demonstrates how AI can be applied to financial data analysis. By automating sentiment tracking, it helps users quickly understand trends and make more informed decisions.
+
+## Author
+Courtney Bernard  
+ITAI 2372 – Artificial Intelligence Applications
